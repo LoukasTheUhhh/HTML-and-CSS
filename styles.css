@@ -1,5 +1,12 @@
 .t {
 	font-family: "Poppins", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+#center {
+	margin: 0 auto;
+	width: 50%;
+	background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fdo%2Fsignup-page&psig=AOvVaw2jn8CBOCcQocAt3BdjO2mP&ust=1748492875645000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICD49epxY0DFQAAAAAdAAAAABAa)
+  color: purple;
+	border: 2px purple;
 }
